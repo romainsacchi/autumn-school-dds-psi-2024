@@ -72,7 +72,7 @@ Please acquaint yourself with the topics before the school starts.
 
 ## License
 Unless otherwise specified, all material in this repository is licensed
-under the BSD 3-clause license. See the LICENSE file for more information.
+under the BSD 3-clause license. See the [LICENSE.md](LICENSE.md) file for more information.
 
 ## Contact
 For any questions or further information, 
