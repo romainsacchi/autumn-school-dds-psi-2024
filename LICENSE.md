@@ -1,6 +1,6 @@
 BSD 3-Clause License
 
-Copyright (c) 2020, Paul Scherrer Institut
+Copyright (c) 2024, Paul Scherrer Institute
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
