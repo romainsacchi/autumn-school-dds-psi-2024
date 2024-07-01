@@ -32,8 +32,9 @@ they will send a car to pick you up at the train station.
 **Welcome and introduction**
 
 ## 09:30 - 10:45
-**Brightway basics (importing databases, handling activities, running LCA, matrices)**
-- Introduction to the Brightway2 framework
+**Brightway basics**
+**Instructor**: Romain
+- Introduction to the Brightway framework
 - Importing databases
 - Handling activities
 - Running LCA
@@ -44,6 +45,7 @@ they will send a car to pick you up at the train station.
 
 ## 11:00 - 12:30
 **Hands-on exercises**
+**Instructor**: Karin
 - Q&A
 - Importing databases
 - Importing own inventory
@@ -54,7 +56,8 @@ they will send a car to pick you up at the train station.
 **Lunch**
 
 ## 14:00 - 17:00
-**Activity Browser (parametrised inventories, Monte Carlo analysis, Scenarios analysis)**
+**Activity Browser**
+**Instructor**: Karin
 - Introduction to the Activity Browser
 - Parametrised inventories
 - Monte Carlo analysis
@@ -66,6 +69,7 @@ they will send a car to pick you up at the train station.
 
 ## 19:30 - 21:00
 **Hands-on exercises**
+**Instructor**: Alvaro
 - Parametrised inventories
 - Monte Carlo analysis
 
@@ -75,7 +79,8 @@ they will send a car to pick you up at the train station.
 **Recap of day 1**
 
 ## 09:00 - 10:45
-**Wurst: database manipulation, scenario implementation, comparative analyses**
+**Wurst**
+**Instructor**: Romain
 - Introduction to the Wurst library
 - Database manipulation
 - Scenario implementation
@@ -87,12 +92,14 @@ they will send a car to pick you up at the train station.
 
 ## 11:00 - 12:30
 **Hands-on exercises**
+**Instructor**: Karin
 
 ## 12:30 - 14:00
 **Lunch**
 
 ## 14:00 - 17:00
-**Premise: generation of prospective databases, superstructure databases**
+**Premise**
+**Instructor**: Romain
 - Introduction to prospective databases
 - Generation of prospective databases
 - Superstructure databases
@@ -104,6 +111,7 @@ they will send a car to pick you up at the train station.
 
 ## 19:30 - 21:00
 **Hands-on exercises**
+**Instructor**: Alvaro
 - Generate a superstructure database
 - Generate a custom scenario
 
@@ -111,6 +119,7 @@ they will send a car to pick you up at the train station.
 
 ## 09:00 - 12:30
 **Deepen knowledge: Q&A session on day 1 and 2**
+**Instructor**: Karin
 - Q&A session on day 1 and 2
 - Group topics selection (see [TOPICS.MD](TOPICS.MD) for more information)
 
@@ -119,9 +128,11 @@ they will send a car to pick you up at the train station.
 
 ## 14:00 - 15:00
 **Dynamic inventory: `temporalis`**
+**Instructor**: Chris
 
 ## 15:00 - 18:00
 **Collaboration via Git**
+**Instructor**: Chris
 - Introduction to Git
 - Package structure
 - Testing
@@ -132,6 +143,7 @@ they will send a car to pick you up at the train station.
 
 ## 19:30 - 21:30
 **Hands-on exercises**
+**Instructor**: Chris
 - Package your code
 - Write tests
 - Write documentation
@@ -140,6 +152,7 @@ they will send a car to pick you up at the train station.
 
 ## 08:30 - 09:30
 **Mass and Flow Analysis:`ODYM`**
+**Instructor**: Alvaro
 
 ## 09:30 - 12:30
 **Group work**

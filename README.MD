@@ -68,7 +68,7 @@ Please read the [INSTRUCTIONS.MD](INSTRUCTIONS.MD) file in this repository.
 During the group projects, you will be asked to work on a topics.
 You may choose a topic of your own and form a group around it.
 Or you may choose one of the topics described in [TOPICS.MD](TOPICS.MD).
-Please acquaint yourself with the topics before the school starts.
+**Please acquaint yourself with the topics before the school starts.**
 
 ## License
 Unless otherwise specified, all material in this repository is licensed
