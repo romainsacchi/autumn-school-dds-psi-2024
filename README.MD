@@ -6,14 +6,9 @@
 </p>
 
 ## Course Overview
-Open-source tools help us realize the true potential of life cycle assessment (LCA). 
-These tools facilitate cloud calculations, uncertainty and sensitivity assessment, 
-parametric modeling, external model interfaces, spatial and temporal assessment, 
-scenario-based and prospective assessment, hybridization of multiple databases, 
-and database modeling perspectives.
 
-In this autumn school, we will build on these open-source foundations, focusing 
-on Brightway, Wurst, and Premise (and maybe Temporalis if there is interest), 
+In this autumn school, we will build on open-source foundations, focusing 
+on [Brightway](https://github.com/brightway-lca), [Activity Browser](https://github.com/LCA-ActivityBrowser/activity-browser), [Wurst](https://github.com/polca/wurst), and [Premise](https://github.com/polca/premise) (and maybe [Temporalis](https://github.com/brightway-lca/temporalis) and [ODYM](https://github.com/IndEcol/ODYM) if there is time), 
 to make our inventory models better fit research questions with a temporal 
 dimension. The instructors will be:
 
@@ -27,9 +22,7 @@ including the use of Jupyter notebooks and the Activity Browser.
 Essential LCA aspects such as sensitivity analysis, multiple types of 
 uncertainty, parametrization, and best practices in software architecture 
 will be taught. This includes documentation standards, testing, data and 
-source version control, linting, and quick tool builders like Panel and Dash. 
-These concepts will be applied while diving deep into Premise and writing 
-parameterized models to generate custom scenario data.
+source version control, and linting.
 
 ## Course Structure
 The week starts with three interactive teaching sessions using Jupyter 
@@ -47,14 +40,15 @@ users. Students who complete the school will receive a certificate for 2
 ETCS credit points. Enrollment is limited to 30 people.
 
 ## Location
-The summer school will be held at the Möschberg seminar hotel, in Grosshöchstetten, 
+The summer school will be held at the [Möschberg seminar hotel](https://www.moeschberg.ch/), in Grosshöchstetten, 
 Switzerland. This hotel is located outside the village, offering views south 
 towards the Bernese Alps. Möschberg emphasizes local and organic food for its guests.
 
 ## Python Preparation
 A basic understanding of Python is necessary for the school. Brightway offers 
 training and documentation online. Students should review those materials 
-and some Python training before the school starts.
+and some Python training before the school starts. 
+Also, read the [INSTRUCTIONS.MD](INSTRUCTIONS.MD) file in this repository.
 
 ## Schedule
 - **Starting Time**: The school starts at 09:00 on Monday. It is most convenient to arrive on 
