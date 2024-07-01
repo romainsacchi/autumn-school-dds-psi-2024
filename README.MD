@@ -1,7 +1,8 @@
 # Autumn School on Open-Source Python Tools for LCA and Prospective LCA
 
 <p align="center">
-  <img src="https://github.com/romainsacchi/autumn-school-dds-psi-2024_images/group-picture-2022.png" alt="Sublime's custom image"/>
+  <img src="https://github.com/romainsacchi/autumn-school-dds-psi-2024/_images/group-picture-2022.png" 
+    alt="2022 students group at Moeschberg Seminar Hotel."/>
 </p>
 
 ## Course Overview
