@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/romainsacchi/autumn-school-dds-psi-2024/blob/main/_images/group-picture-2022.png" 
-    alt="2022 students group at Moeschberg Seminar Hotel."/>
+    alt="2022 students group at Moeschberg Seminar Hotel." width="50%"/>
 </p>
 
 ## Course Overview
