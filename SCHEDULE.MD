@@ -28,23 +28,23 @@ they will send a car to pick you up at the train station.
 
 # DAY 1 (MONDAY)
 
-## 08:30 - 09:00
+## 09:00 - 09:30
 **Welcome and introduction**
 
-## 09:00 - 10:45
+## 09:30 - 10:45
 **Brightway basics (importing databases, handling activities, running LCA, matrices)**
 - Introduction to the Brightway2 framework
 - Importing databases
 - Handling activities
 - Running LCA
 - Matrices
-- Q&A
 
 ## 10:45 - 11:00
 **Coffee break**
 
 ## 11:00 - 12:30
 **Hands-on exercises**
+- Q&A
 - Importing databases
 - Importing own inventory
 - Multi LCA
@@ -117,6 +117,9 @@ they will send a car to pick you up at the train station.
 ## 12:30 - 14:00
 **Lunch**
 
+## 14:00 - 15:00
+**Dynamic inventory: `temporalis`**
+
 ## 15:00 - 18:00
 **Collaboration via Git**
 - Introduction to Git
@@ -135,7 +138,10 @@ they will send a car to pick you up at the train station.
 
 # DAY 4 (THURSDAY)
 
-## 09:00 - 12:30
+## 08:30 - 09:30
+**Mass and Flow Analysis:`ODYM`**
+
+## 09:30 - 12:30
 **Group work**
 
 ## 12:30 - 14:00
@@ -160,3 +166,9 @@ they will send a car to pick you up at the train station.
 
 ## 14:00 - 16:00
 **Group work presentation**
+
+## 16:00 - 17:00
+**Closing remarks and feedback**
+
+## 17:00
+**Apéro and goodbyes**
