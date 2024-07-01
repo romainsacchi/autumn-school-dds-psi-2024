@@ -1,0 +1,13 @@
+# in your terminal, run conda: conda env create -f premise_environment.yaml
+
+name: premise
+channels:
+  - romainsacchi
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - premise
+  - jupyterlab
+  - matplotlib
+  - seaborn

@@ -1,0 +1,14 @@
+# in your terminal, run conda: conda env create -f brightway_environment.yaml
+
+name: bw
+channels:
+  - cmutel
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - brightway25
+  - activity-browser>=2.10.0
+  - jupyterlab
+  - matplotlib
+  - seaborn

@@ -1,0 +1,17 @@
+# in your terminal, run conda: conda env create -f wurst_environment.yaml
+
+name: wurst
+channels:
+  - cmutel
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - brightway25
+  - wurst
+  - jupyterlab
+  - matplotlib
+  - seaborn
+  - xarray
+  - pandas
+  - prettytable
