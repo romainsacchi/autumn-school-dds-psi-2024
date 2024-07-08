@@ -55,7 +55,7 @@ they will send a car to pick you up at the train station.
 
 ## 14:00 - 17:00
 **Activity Browser**
-**Instructor**: Karin
+**Instructor**: Karin ?
 - Introduction to the Activity Browser
 - Parametrised inventories
 - Monte Carlo analysis
@@ -67,7 +67,7 @@ they will send a car to pick you up at the train station.
 
 ## 19:30 - 21:00
 **Hands-on exercises**
-**Instructor**: Alvaro
+**Instructor**: Alvaro ?
 - Parametrised inventories
 - Monte Carlo analysis
 
@@ -90,7 +90,7 @@ they will send a car to pick you up at the train station.
 
 ## 11:00 - 12:30
 **Hands-on exercises**
-**Instructor**: Karin
+**Instructor**: Karin ?
 
 ## 12:30 - 14:00
 **Lunch**
@@ -109,7 +109,7 @@ they will send a car to pick you up at the train station.
 
 ## 19:30 - 21:00
 **Hands-on exercises**
-**Instructor**: Alvaro
+**Instructor**: ?
 - Generate a superstructure database
 - Generate a custom scenario
 
@@ -126,11 +126,11 @@ they will send a car to pick you up at the train station.
 
 ## 14:00 - 15:00
 **Dynamic inventory: `temporalis`**
-**Instructor**: Chris
+**Instructor**: Chris ?
 
 ## 15:00 - 18:00
 **Collaboration via Git**
-**Instructor**: Chris
+**Instructor**: Chris ?
 - Introduction to Git
 - Package structure
 - Testing
@@ -141,7 +141,7 @@ they will send a car to pick you up at the train station.
 
 ## 19:30 - 21:30
 **Hands-on exercises**
-**Instructor**: Chris
+**Instructor**: Chris ?
 - Package your code
 - Write tests
 - Write documentation
@@ -150,7 +150,7 @@ they will send a car to pick you up at the train station.
 
 ## 08:30 - 09:30
 **Mass and Flow Analysis:`ODYM`**
-**Instructor**: Alvaro
+**Instructor**: Alvaro ?
 
 ## 09:30 - 12:30
 **Group work**
