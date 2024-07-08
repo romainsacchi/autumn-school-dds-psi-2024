@@ -1,4 +1,4 @@
-# in your terminal, run conda: conda env create -f wurst_environment.yaml
+# in your terminal, run conda: conda env create -f wurst_env_win64.yaml
 
 name: wurst
 channels:
@@ -7,7 +7,9 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11
-  - brightway25
+  - brightway25_nosolver
+  - ecoinvent_interface
+  - scikit-umfpack
   - wurst
   - jupyterlab
   - matplotlib

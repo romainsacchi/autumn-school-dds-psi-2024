@@ -1,0 +1,15 @@
+# in your terminal, run conda: conda env create -f bw25_env_win64.yaml
+
+name: bw25
+channels:
+  - conda-forge
+  - cmutel
+  - defaults
+dependencies:
+  - python=3.11
+  - brightway25
+  - ecoinvent_interface
+  - numpy<=1.24.0
+  - jupyterlab
+  - matplotlib
+  - seaborn

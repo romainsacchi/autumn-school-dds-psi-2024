@@ -1,4 +1,4 @@
-# in your terminal, run conda: conda env create -f premise_environment.yaml
+# in your terminal, run conda: conda env create -f premise_env.yaml
 
 name: premise
 channels:

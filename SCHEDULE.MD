@@ -45,11 +45,9 @@ they will send a car to pick you up at the train station.
 
 ## 11:00 - 12:30
 **Hands-on exercises**
-**Instructor**: Karin
+**Instructor**: Romain
 - Q&A
-- Importing databases
 - Importing own inventory
-- Multi LCA
 - Contribution analysis
 
 ## 12:30 - 14:00

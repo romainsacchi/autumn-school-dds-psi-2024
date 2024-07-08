@@ -101,7 +101,7 @@ Using your terminal, navigate to the `environments` folder of the repository:
 Then, run the following command to create the `wurst` environment:
 
 ```bash
-  conda env create -f wurst_environment.yaml
+  conda env create -f wurst_env_win64.yaml
 ```
 
 This will create a conda environment called `wurst` with all the required dependencies.
@@ -109,7 +109,7 @@ This will create a conda environment called `wurst` with all the required depend
 Then, run the following command to create the `premise` environment:
 
 ```bash
-  conda env create -f premise_environment.yaml
+  conda env create -f premise_env.yaml
 ```
 
 This will create a conda environment called `premise` with all the required dependencies.
@@ -117,7 +117,7 @@ This will create a conda environment called `premise` with all the required depe
 Finally, run the following command to create the `brightway` environment:
 
 ```bash
-  conda env create -f brightway_environment.yaml
+  conda env create -f bw25_env_win64.yaml
 ```
 
 This will create a conda environment called `brightway` with all the required dependencies.
