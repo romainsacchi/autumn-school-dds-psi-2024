@@ -83,14 +83,14 @@ necessary libraries, we will create Anaconda **environments** for you, using
 **recipes** that we have prepared.
 
 We have prepared three recipes which install three different environments:
-- `brightway_environment.yaml`: it will install the `brightway` library as well as Activity Browser
-- `wurst_environment.yaml`: it will install the `wurst` library and its dependencies
-- `premise_environment.yaml`: it will install the `premise` library and its dependencies
+- `bw25_env_xxx.yaml`: it will install the `brightway` library as well as Activity Browser
+- `wurst_env_xxx.yaml`: it will install the `wurst` library and its dependencies
+- `premise_env.yaml`: it will install the `premise` library and its dependencies
 
 After running the recipe files, you will have three environments on your computer:
 - `wurst`
 - `premise`
-- `brightway`
+- `bw25`
 
 Using your terminal, navigate to the `environments` folder of the repository:
 
@@ -100,8 +100,16 @@ Using your terminal, navigate to the `environments` folder of the repository:
 
 Then, run the following command to create the `wurst` environment:
 
+If you use Windows or Mac with an Intel processor:
+
 ```bash
   conda env create -f wurst_env_win64.yaml
+```
+
+If you use Mac with an Mx processor:
+
+```bash
+  conda env create -f wurst_env_osxARM.yaml
 ```
 
 This will create a conda environment called `wurst` with all the required dependencies.
@@ -114,10 +122,19 @@ Then, run the following command to create the `premise` environment:
 
 This will create a conda environment called `premise` with all the required dependencies.
 
-Finally, run the following command to create the `brightway` environment:
+Finally, run the following command to create the `bw25` environment:
+
+On Windows or Mac with an Intel processor:
+
 
 ```bash
   conda env create -f bw25_env_win64.yaml
+```
+
+On a Mac with an Mx processor:
+
+```bash
+  conda env create -f bw25_env_osxARM.yaml
 ```
 
 This will create a conda environment called `brightway` with all the required dependencies.
