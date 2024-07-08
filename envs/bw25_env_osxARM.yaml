@@ -8,9 +8,13 @@ channels:
 dependencies:
   - python=3.11
   - brightway25_nosolver
+  - bw_graph_tools
   - ecoinvent_interface
   - scikit-umfpack
   - numpy<=1.24.0
   - jupyterlab
   - matplotlib
   - seaborn
+  - pip:
+      - git+https://github.com/romainsacchi/d3blocks.git
+      - polyviz
