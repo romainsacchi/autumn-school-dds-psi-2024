@@ -55,7 +55,7 @@ they will send a car to pick you up at the train station.
 
 ## 14:00 - 17:00
 **Activity Browser**
-**Instructor**: Karin ?
+**Instructor**: Karin 
 - Introduction to the Activity Browser
 - Parametrised inventories
 - Monte Carlo analysis
@@ -109,7 +109,7 @@ they will send a car to pick you up at the train station.
 
 ## 19:30 - 21:00
 **Hands-on exercises**
-**Instructor**: ?
+**Instructor**: Karin
 - Generate a superstructure database
 - Generate a custom scenario
 
