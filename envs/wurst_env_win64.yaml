@@ -8,8 +8,10 @@ channels:
 dependencies:
   - python=3.11
   - brightway25
+  - bw2parameters >=1.1.0
   - ecoinvent_interface
-  - wurst
+  - numpy <=1.24.0
+  - wurst >=0.4.0
   - jupyterlab
   - matplotlib
   - seaborn
