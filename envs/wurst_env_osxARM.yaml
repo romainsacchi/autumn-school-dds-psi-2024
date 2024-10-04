@@ -11,8 +11,9 @@ dependencies:
   - scikit-umfpack
   - bw2parameters >=1.1.0
   - ecoinvent_interface
-  - numpy <=1.24.0
+  - numpy <=1.24.4
   - wurst >=0.4.0
+  - constructive_geometries==1.0.0
   - jupyterlab
   - matplotlib
   - seaborn

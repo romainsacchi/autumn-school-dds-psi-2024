@@ -12,6 +12,7 @@ dependencies:
   - ecoinvent_interface
   - numpy <=1.24.0
   - wurst >=0.4.0
+  - constructive_geometries==1.0.0
   - jupyterlab
   - matplotlib
   - seaborn

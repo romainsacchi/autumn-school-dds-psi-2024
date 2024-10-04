@@ -10,7 +10,7 @@ dependencies:
   - brightway25
   - bw_graph_tools
   - ecoinvent_interface
-  - numpy<=1.24.0
+  - numpy<=1.24.4
   - jupyterlab
   - matplotlib
   - seaborn

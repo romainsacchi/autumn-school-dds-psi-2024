@@ -161,15 +161,8 @@ and check the installed packages by running:
 
 ## Ecoinvent database
 
-Also, please download a copy of the ecoinvent database:
-- go to https://ecoinvent.org/
-- Login to ecoinvent v.3
-- Files > Version 3.10 > ecoinvent 3.10_cutoff_ecoSpold02.7z
-
-Unzip the file and place the folder in a location of your choice.
-You may download a different version of the database (3.7, 3.8 ,3.9), 
-according to your current license (although choose the "cut-off by classification" 
-system model).
+Also, please acquire credentials to download the ecoinvent database.
+We will be using the ecoinvent 3.10 database for the course.
 
 # IDE
 
