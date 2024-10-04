@@ -137,7 +137,7 @@ On a Mac with an Mx processor:
   conda env create -f bw25_env_osxARM.yaml
 ```
 
-This will create a conda environment called `brightway` with all the required dependencies.
+This will create a conda environment called `bw25` with all the required dependencies.
 
 You can check that the environments have been created by running the following command:
 
@@ -161,7 +161,7 @@ and check the installed packages by running:
 
 ## Ecoinvent database
 
-Also, please acquire credentials (usernmae and password) to 
+Also, please acquire credentials (username and password) to 
 download the [ecoinvent](https://ecoinvent.org) database.
 We will be using the ecoinvent 3.10 database for the course.
 
