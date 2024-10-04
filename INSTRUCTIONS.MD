@@ -161,7 +161,8 @@ and check the installed packages by running:
 
 ## Ecoinvent database
 
-Also, please acquire credentials to download the ecoinvent database.
+Also, please acquire credentials (usernmae and password) to 
+download the [ecoinvent](https://ecoinvent.org) database.
 We will be using the ecoinvent 3.10 database for the course.
 
 # IDE
