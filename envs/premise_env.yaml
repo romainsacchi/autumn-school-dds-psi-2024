@@ -1,6 +1,6 @@
 # in your terminal, run conda: conda env create -f premise_env.yaml
 
-name: premise
+name: premise_school
 channels:
   - romainsacchi
   - defaults
