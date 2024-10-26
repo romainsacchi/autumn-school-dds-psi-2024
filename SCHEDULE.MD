@@ -32,7 +32,7 @@ they will send a car to pick you up at the train station.
 **Welcome and introduction**
 
 ## 09:30 - 10:45
-**Brightway basics**
+**Brightway basics (part I)**
 **Instructor**: Romain
 - Introduction to the Brightway framework
 - Importing databases
@@ -44,7 +44,7 @@ they will send a car to pick you up at the train station.
 **Coffee break**
 
 ## 11:00 - 12:30
-**Hands-on exercises**
+**Brightway basics (part II)**
 **Instructor**: Romain
 - Q&A
 - Importing own inventory
@@ -53,7 +53,15 @@ they will send a car to pick you up at the train station.
 ## 12:30 - 14:00
 **Lunch**
 
-## 14:00 - 17:00
+## 14:00 - 14:45
+**Brightway basics (part III)**
+**Instructor**: Romain
+- Exporting and sharing databases and projects
+
+## 14:45 - 15:00
+**Coffee break**
+
+## 15:00 - 17:00
 **Activity Browser**
 **Instructor**: Karin 
 - Introduction to the Activity Browser
