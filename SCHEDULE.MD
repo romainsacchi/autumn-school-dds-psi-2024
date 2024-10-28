@@ -23,7 +23,7 @@ Switzerland
 ```
 
 The hotel is located on a hill, so you will have to walk up **a steep path** to get
-there. If you have heavy luggage, you can call the hotel at +41 31 710 22 22 and
+there. If you have heavy luggage, you can call the hotel at +41 31 710 22 22 EARLY ENOUGH PRIOR to your arrival to arrange that
 they will send a car to pick you up at the train station.
 
 # DAY 1 (MONDAY)
@@ -47,8 +47,9 @@ they will send a car to pick you up at the train station.
 **Brightway basics (part II)**
 **Instructor**: Romain
 - Q&A
-- Importing own inventory
+- Importing own inventories
 - Contribution analysis
+- Results visualisation
 
 ## 12:30 - 14:00
 **Lunch**
@@ -58,19 +59,18 @@ they will send a car to pick you up at the train station.
 **Instructor**: Romain
 - Exporting and sharing databases and projects
 
-## 14:45 - 15:00
-**Coffee break**
-
-## 15:00 - 17:00
+## 14:45 - 17:30
 **Activity Browser**
 **Instructor**: Karin 
 - Introduction to the Activity Browser
+- **Coffee break :-)** 
 - Parametrised inventories
 - Monte Carlo analysis
 - Scenarios analysis
+- Interplay: Working in AB and in jupyter notebooks
 - Q&A
 
-## 17:00 - 19:30
+## 17:30 - 19:30
 **Rest and dinner**
 
 ## 19:30 - 21:00
@@ -108,6 +108,7 @@ they will send a car to pick you up at the train station.
 **Instructor**: Romain
 - Introduction to prospective databases
 - Generation of prospective databases
+- **Coffee break**
 - Generation of custom scenarios
 - Q&A
 
@@ -117,15 +118,23 @@ they will send a car to pick you up at the train station.
 ## 19:30 - 21:00
 **Hands-on exercises**
 **Instructor**: Karin
-- Generate a superstructure database
+- Generate and use a superstructure database
 
 # DAY 3 (WEDNESDAY)
 
-## 09:00 - 11:00
+## 09:00 - 10:15
 **Deepen knowledge: Q&A session on day 1 and 2**
 **Instructor**: Karin
 - Q&A session on day 1 and 2
+
+## 10:15 - 10:30
+**Coffee break**
+
+## 10:30-11:30
+**Setting up the group work**
+**Instructor**: Karin
 - Group topics selection (see [TOPICS.MD](TOPICS.MD) for more information)
+- Formation of groups
 
 ## 11:30 - 12:30
 **Dynamic inventory: `temporalis`** (part I)
