@@ -75,7 +75,7 @@ they will send a car to pick you up at the train station.
 
 ## 19:30 - 21:00
 **Hands-on exercises**
-**Instructor**: Alvaro ?
+**Instructor**: Alvaro
 - Parametrised inventories
 - Monte Carlo analysis
 
@@ -98,7 +98,7 @@ they will send a car to pick you up at the train station.
 
 ## 11:00 - 12:30
 **Hands-on exercises**
-**Instructor**: Karin ?
+**Instructor**: Karin
 
 ## 12:30 - 14:00
 **Lunch**
@@ -108,7 +108,6 @@ they will send a car to pick you up at the train station.
 **Instructor**: Romain
 - Introduction to prospective databases
 - Generation of prospective databases
-- Superstructure databases
 - Generation of custom scenarios
 - Q&A
 
@@ -119,26 +118,32 @@ they will send a car to pick you up at the train station.
 **Hands-on exercises**
 **Instructor**: Karin
 - Generate a superstructure database
-- Generate a custom scenario
 
 # DAY 3 (WEDNESDAY)
 
-## 09:00 - 12:30
+## 09:00 - 11:00
 **Deepen knowledge: Q&A session on day 1 and 2**
 **Instructor**: Karin
 - Q&A session on day 1 and 2
 - Group topics selection (see [TOPICS.MD](TOPICS.MD) for more information)
 
+## 11:30 - 12:30
+**Dynamic inventory: `temporalis`** (part I)
+**Instructor**: Chris
+
 ## 12:30 - 14:00
 **Lunch**
 
 ## 14:00 - 15:00
-**Dynamic inventory: `temporalis`**
-**Instructor**: Chris ?
+**Dynamic inventory: `temporalis`** (part II)
+**Instructor**: Chris
 
-## 15:00 - 18:00
+## 15:00 - 15:15
+**Coffee break**
+
+## 15:15 - 18:00
 **Collaboration via Git**
-**Instructor**: Chris ?
+**Instructor**: Chris
 - Introduction to Git
 - Package structure
 - Testing
@@ -149,18 +154,18 @@ they will send a car to pick you up at the train station.
 
 ## 19:30 - 21:30
 **Hands-on exercises**
-**Instructor**: Chris ?
+**Instructor**: Chris
 - Package your code
 - Write tests
 - Write documentation
 
 # DAY 4 (THURSDAY)
 
-## 08:30 - 09:30
+## 08:30 - 11:00
 **Mass and Flow Analysis:`ODYM`**
-**Instructor**: Alvaro ?
+**Instructor**: Alvaro
 
-## 09:30 - 12:30
+## 11:15 - 12:30
 **Group work**
 
 ## 12:30 - 14:00
