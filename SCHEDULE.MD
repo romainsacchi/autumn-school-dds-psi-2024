@@ -29,9 +29,16 @@ they will send a car to pick you up at the train station.
 # DAY 1 (MONDAY)
 
 ## 09:00 - 09:30
-**Welcome and introduction**
+**Welcome (15 min) and introduction round 1 (15 min)**
 
-## 09:30 - 10:45
+## 09:30 - 9:50
+**Brightway universe basic introduction**
+**Instructor**: Karin
+- What is BW, AB
+- What is required to use BW
+- How can you use BW
+
+## 09:50 - 10:45
 **Brightway basics (part I)**
 **Instructor**: Romain
 - Introduction to the Brightway framework
@@ -59,7 +66,10 @@ they will send a car to pick you up at the train station.
 **Instructor**: Romain
 - Exporting and sharing databases and projects
 
-## 14:45 - 17:30
+## 14:45-15:00
+**Introduction round 2 (15 min)**
+
+## 15:00 - 17:30
 **Activity Browser**
 **Instructor**: Karin 
 - Introduction to the Activity Browser
