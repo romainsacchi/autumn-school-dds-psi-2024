@@ -83,14 +83,16 @@ necessary libraries, we will create Anaconda **environments** for you, using
 **recipes** that we have prepared.
 
 We have prepared three recipes which install three different environments:
-- `bw25_env_xxx.yaml`: it will install the `brightway` library as well as Activity Browser
+- `bw25_env_xxx.yaml`: it will install the `brightway` library  as well as `temporalis`
 - `wurst_env_xxx.yaml`: it will install the `wurst` library and its dependencies
-- `premise_env.yaml`: it will install the `premise` library and its dependencies
+- `premise_env.yaml`: it will install the `premise` library and its dependencies as well as `activity-browser`
+- `odym_env.yaml`: it will install the `odym` library and its dependencies
 
 After running the recipe files, you will have three environments on your computer:
 - `wurst`
 - `premise`
 - `bw25`
+- `odym`
 
 Using your terminal, navigate to the `environments` folder of the repository:
 
@@ -106,7 +108,7 @@ If you use Windows or Mac with an Intel processor:
   conda env create -f wurst_env_win64.yaml
 ```
 
-If you use Mac with an Mx processor:
+If you use Mac with an M1/2/3/4 processor:
 
 ```bash
   conda env create -f wurst_env_osxARM.yaml
@@ -131,7 +133,7 @@ On Windows or Mac with an Intel processor:
   conda env create -f bw25_env_win64.yaml
 ```
 
-On a Mac with an Mx processor:
+On a Mac with an M1/2/3/4 processor:
 
 ```bash
   conda env create -f bw25_env_osxARM.yaml

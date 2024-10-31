@@ -1,20 +1,13 @@
 # in your terminal, run conda: conda env create -f bw25_env_win64.yaml
 
-name: bw25
+name: odym
 channels:
   - conda-forge
-  - cmutel
   - defaults
 dependencies:
   - python=3.11
-  - brightway25
-  - bw_graph_tools
-  - ecoinvent_interface
-  - numpy<=1.24.4
   - jupyterlab
   - matplotlib
   - seaborn
-  - bw_temporalis
   - pip:
-      - git+https://github.com/romainsacchi/d3blocks.git
-      - polyviz
+      - git+https://github.com/romainsacchi/ODYM.git

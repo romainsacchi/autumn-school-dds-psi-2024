@@ -15,6 +15,7 @@ dependencies:
   - jupyterlab
   - matplotlib
   - seaborn
+  - bw_temporalis
   - pip:
       - git+https://github.com/romainsacchi/d3blocks.git
       - polyviz
