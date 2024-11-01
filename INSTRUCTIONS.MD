@@ -1,16 +1,16 @@
 # INSTRUCTIONS BEFORE ARRIVAL
 
 Please follow the below instructions before arriving at the course.
-Ideally, do this **at least one week before the course starts**, so
-that you have time to ask/write us questions if you encounter any issues.
+If you encounter any issues, please contact us, and we will troubleshoot, so that you can arrive with everything set up on your computer.
+For those arriving Sunday already at the hotel, Romain and Alvaro will also be there to have a look at anything which doesn't work. 
+Please absolutely make sure that everything works, so that we can start right away on Monday with the content instead of technical troubleshooting.
+
+
 
 # WORK ON SERVERS vs. LOCAL MACHINES
 
-During the course, we will work on servers provided by Départ de Sentier.
-This allows us to have **a consistent environment for all participants**.
-However, we recommend that you install the necessary software on your
-local machine as well, so that you can continue working on the exercises
-after the course and during group projects from Thursday to Friday.
+You will set up everything on your local machine, instead of us providing a consistent and working server for the duration of this course. 
+Why? Because you will also not work on a nicely set up server at home, but with your own machine. Thus we don't want to create an artificial environment for you during the course, but give you the chance to set up everything such that you can go home and continue with the work. 
 
 # ANACONDA AND GIT
 
@@ -44,6 +44,9 @@ and run the following commands:
 
 ## Clone this repository
 
+Option A: Download github desktop, click to clone a repository, and paste the link of the repository shown further below.
+
+Option B: 
 Using your Windows/Mac terminal, navigate to the folder where you want 
 to store the course material.For example, you can create a folder 
 called `autumn-school-2024` in your `Documents` folder. To navigate to 
@@ -82,17 +85,19 @@ that are not installed by default in Anaconda. To make sure you have all the
 necessary libraries, we will create Anaconda **environments** for you, using
 **recipes** that we have prepared.
 
-We have prepared three recipes which install three different environments:
+We have prepared four recipes which install four different environments:
 - `bw25_env_xxx.yaml`: it will install the `brightway` library  as well as `temporalis`
 - `wurst_env_xxx.yaml`: it will install the `wurst` library and its dependencies
 - `premise_env.yaml`: it will install the `premise` library and its dependencies as well as `activity-browser`
 - `odym_env.yaml`: it will install the `odym` library and its dependencies
 
-After running the recipe files, you will have three environments on your computer:
+After running the recipe files, you will have four environments on your computer:
 - `wurst`
 - `premise`
 - `bw25`
 - `odym`
+
+Here is how to install these environments:
 
 Using your terminal, navigate to the `environments` folder of the repository:
 
@@ -161,15 +166,21 @@ and check the installed packages by running:
   conda list
 ```
 
+## Installing Activity Browser
+
+The installation of AB is basically also simply the creation of an environment which is called "ab", and which contains the activity browser package (and all related packages required to run AB). 
+Please follow the installation instructions given here: https://github.com/LCA-ActivityBrowser/activity-browser
+
 ## Ecoinvent database
 
 Also, please acquire credentials (username and password) to 
-download the [ecoinvent](https://ecoinvent.org) database.
+download the [ecoinvent](https://ecoinvent.org) database. Ask the person in charge of your group/university to get these credentials. Or ask the ecoinvent support if you can't find out in-house.
+
 We will be using the ecoinvent 3.10 database for the course.
 
-# IDE
+# Code editor
 
-We recommend using **PyCharm** or **Visual Studio Code** as an IDE for the course.
+We recommend using **PyCharm** or **Visual Studio Code** as an IDE (Integrated Development Environment) for the course.
 Both are free (Community edition) and have a lot of features that will 
 help you during the course.
 
