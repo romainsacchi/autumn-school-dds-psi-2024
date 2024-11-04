@@ -176,7 +176,7 @@ Please follow the installation instructions given here: https://github.com/LCA-A
 Also, please acquire credentials (username and password) to 
 download the [ecoinvent](https://ecoinvent.org) database. Ask the person in charge of your group/university to get these credentials. Or ask the ecoinvent support if you can't find out in-house.
 
-We will be using the ecoinvent 3.10 database for the course.
+We will be using the ecoinvent 3.10 cut-off database for the course.
 
 # Code editor
 
