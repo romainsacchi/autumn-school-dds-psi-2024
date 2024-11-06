@@ -217,10 +217,10 @@ they will send a car to pick you up at the train station.
 ## 12:30 - 14:00
 **Lunch**
 
-## 14:00 - 16:00
+## 14:00 - 16:15
 **Group work presentation**
 
-## 16:00 - 17:00
+## 16:15 - 17:00
 **Closing remarks and feedback**
 
 ## 17:00
