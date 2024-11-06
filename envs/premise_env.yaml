@@ -13,3 +13,4 @@ dependencies:
   - seaborn
   - constructive_geometries==1.0.0
   - activity-browser
+  - ab-plugin-scenariolink

@@ -40,6 +40,7 @@ they will send a car to pick you up at the train station.
 
 ## 09:50 - 10:45
 **Brightway basics (part I)**
+**Environment**:  bw25
 **Instructor**: Romain
 - Introduction to the Brightway framework
 - Importing databases
@@ -50,6 +51,7 @@ they will send a car to pick you up at the train station.
 
 ## 11:00 - 12:30
 **Brightway basics (part II)**
+**Environment**:  bw25
 **Instructor**: Romain
 - Running LCA
 - Matrices
@@ -59,6 +61,7 @@ they will send a car to pick you up at the train station.
 
 ## 14:00 - 15:30
 **Brightway basics (part III)**
+**Environment**:  bw25
 **Instructor**: Romain
 - Importing own inventories
 - Contribution analysis
@@ -74,8 +77,8 @@ they will send a car to pick you up at the train station.
 ## 16:00 - 17:30
 **Activity Browser**
 **Instructor**: Karin 
+**Environment**:  premise
 - Introduction to the Activity Browser
-- **Coffee break :-)** 
 - Parametrised inventories
 - Monte Carlo analysis
 - Scenarios analysis
@@ -88,6 +91,7 @@ they will send a car to pick you up at the train station.
 ## 19:30 - 21:00
 **Hands-on exercises**
 **Instructor**: Alvaro
+**Environment**:  premise
 - Parametrised inventories
 - Monte Carlo analysis
 
@@ -99,6 +103,7 @@ they will send a car to pick you up at the train station.
 ## 09:00 - 10:45
 **Wurst**
 **Instructor**: Romain
+**Environment**:  wurst
 - Introduction to the Wurst library
 - Database manipulation
 - Scenario implementation
@@ -111,6 +116,7 @@ they will send a car to pick you up at the train station.
 ## 11:00 - 12:30
 **Hands-on exercises**
 **Instructor**: Karin
+**Environment**:  wurst
 
 ## 12:30 - 14:00
 **Lunch**
@@ -118,6 +124,7 @@ they will send a car to pick you up at the train station.
 ## 14:00 - 17:00
 **Premise**
 **Instructor**: Romain
+**Environment**:  premise
 - Introduction to prospective databases
 - Generation of prospective databases
 - **Coffee break**
@@ -130,6 +137,7 @@ they will send a car to pick you up at the train station.
 ## 19:30 - 21:00
 **Hands-on exercises**
 **Instructor**: Karin
+**Environment**:  premise
 - Generate and use a superstructure database
 
 # DAY 3 (WEDNESDAY)
@@ -151,6 +159,7 @@ they will send a car to pick you up at the train station.
 ## 11:30 - 12:30
 **Dynamic inventory: `temporalis`** (part I)
 **Instructor**: Chris
+**Environment**:  bw25
 
 ## 12:30 - 14:00
 **Lunch**
@@ -158,6 +167,7 @@ they will send a car to pick you up at the train station.
 ## 14:00 - 15:00
 **Dynamic inventory: `temporalis`** (part II)
 **Instructor**: Chris
+**Environment**:  bw25
 
 ## 15:00 - 15:15
 **Coffee break**
@@ -173,12 +183,10 @@ they will send a car to pick you up at the train station.
 ## 18:00 - 19:30
 **Rest and dinner**
 
-## 19:30 - 21:30
+## 19:30 - 21:00
 **Hands-on exercises**
 **Instructor**: Chris
 - Package your code
-- Write tests
-- Write documentation
 
 # DAY 4 (THURSDAY)
 
