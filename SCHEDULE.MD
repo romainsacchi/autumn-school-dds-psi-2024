@@ -44,8 +44,6 @@ they will send a car to pick you up at the train station.
 - Introduction to the Brightway framework
 - Importing databases
 - Handling activities
-- Running LCA
-- Matrices
 
 ## 10:45 - 11:00
 **Coffee break**
@@ -53,7 +51,8 @@ they will send a car to pick you up at the train station.
 ## 11:00 - 12:30
 **Brightway basics (part II)**
 **Instructor**: Romain
-- Q&A
+- Running LCA
+- Matrices
 - Importing own inventories
 - Contribution analysis
 - Results visualisation
