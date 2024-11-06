@@ -53,22 +53,25 @@ they will send a car to pick you up at the train station.
 **Instructor**: Romain
 - Running LCA
 - Matrices
-- Importing own inventories
-- Contribution analysis
-- Results visualisation
 
 ## 12:30 - 14:00
 **Lunch**
 
-## 14:00 - 14:45
+## 14:00 - 15:30
 **Brightway basics (part III)**
 **Instructor**: Romain
+- Importing own inventories
+- Contribution analysis
+- Results visualisation
 - Exporting and sharing databases and projects
 
-## 14:45-15:00
+## 15:30-15:45
 **Introduction round 2 (15 min)**
 
-## 15:00 - 17:30
+## 15:45 - 16:00
+**Coffee break**
+
+## 16:00 - 17:30
 **Activity Browser**
 **Instructor**: Karin 
 - Introduction to the Activity Browser
