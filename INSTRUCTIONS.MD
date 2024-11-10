@@ -129,6 +129,14 @@ Then, run the following command to create the `premise` environment:
 
 This will create a conda environment called `premise` with all the required dependencies.
 
+Then, run the following command to create the `odym` environment:
+
+```bash
+  conda env create -f odym_env.yaml
+```
+
+This will create a conda environment called `odym` with all the required dependencies.
+
 Finally, run the following command to create the `bw25` environment:
 
 On Windows or Mac with an Intel processor:
@@ -152,7 +160,7 @@ You can check that the environments have been created by running the following c
   conda env list
 ```
 
-You should see the three environments listed in the terminal (plus the `base` environment).
+You should see the four environments listed in the terminal (plus the `base` environment).
 
 You can activate an environment by running the following command:
 
