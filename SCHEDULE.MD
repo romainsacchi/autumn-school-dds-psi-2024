@@ -49,17 +49,17 @@ they will send a car to pick you up at the train station.
 ## 10:45 - 11:00
 **Coffee break**
 
-## 11:00 - 12:30
+## 11:00 - 12:00
 **Brightway basics (part II)**
 **Environment**:  bw25
 **Instructor**: Romain
 - Running LCA
 - Matrices
 
-## 12:30 - 14:00
+## 12:00 - 13:30
 **Lunch**
 
-## 14:00 - 15:30
+## 13:30 - 15:30
 **Brightway basics (part III)**
 **Environment**:  bw25
 **Instructor**: Romain
@@ -68,13 +68,16 @@ they will send a car to pick you up at the train station.
 - Results visualisation
 - Exporting and sharing databases and projects
 
-## 15:30-15:45
-**Introduction round 2 (15 min)**
-
-## 15:45 - 16:00
+## 15:20 - 15:50
 **Coffee break**
 
-## 16:00 - 17:30
+## 15:50 - 1650
+**Brightway basics (part IV)**
+
+## 16:50-17:00
+**Introduction round 2 (15 min)**
+
+## 17:00 - 18:00
 **Activity Browser**
 **Instructor**: Karin 
 **Environment**:  premise
@@ -85,7 +88,7 @@ they will send a car to pick you up at the train station.
 - Interplay: Working in AB and in jupyter notebooks
 - Q&A
 
-## 17:30 - 19:30
+## 18:00 - 19:30
 **Rest and dinner**
 
 ## 19:30 - 21:00
