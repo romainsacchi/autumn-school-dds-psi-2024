@@ -59,7 +59,7 @@ they will send a car to pick you up at the train station.
 ## 12:00 - 13:30
 **Lunch**
 
-## 14:30 - 15:30
+## 13:30 - 15:30
 **Brightway basics (part III)**
 **Environment**:  bw25
 **Instructor**: Romain
