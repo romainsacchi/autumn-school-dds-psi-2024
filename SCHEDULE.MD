@@ -49,14 +49,14 @@ they will send a car to pick you up at the train station.
 ## 10:45 - 11:00
 **Coffee break**
 
-## 11:00 - 12:30
+## 11:00 - 12:00
 **Brightway basics (part II)**
 **Environment**:  bw25
 **Instructor**: Romain
 - Running LCA
 - Matrices
 
-## 12:30 - 14:00
+## 12:00 - 13:30
 **Lunch**
 
 ## 14:00 - 15:30
