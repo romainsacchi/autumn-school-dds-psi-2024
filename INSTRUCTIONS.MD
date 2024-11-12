@@ -10,7 +10,10 @@ Please absolutely make sure that everything works, so that we can start right aw
 # WORK ON SERVERS vs. LOCAL MACHINES
 
 You will set up everything on your local machine, instead of us providing a consistent and working server for the duration of this course. 
-Why? Because you will also not work on a nicely set up server at home, but with your own machine. Thus we don't want to create an artificial environment for you during the course, but give you the chance to set up everything such that you can go home and continue with the work. 
+Why? Because you will also not work on a nicely set up server at home, but with your own machine. Thus we don't want to create an artificial 
+environment for you during the course, but give you the chance to set up everything such that you can go home and continue with the work.
+
+> **_NOTE:_**  We however recommend to have at least 8GB of RAM on your computer, as some of the calculations can be quite memory-intensive.
 
 # ANACONDA AND GIT
 
