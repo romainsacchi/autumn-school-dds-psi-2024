@@ -1,14 +1,13 @@
 # TOPICS FOR GROUP PROJECTS
 
 **Deliverables applicable to all topics**:
-- A Python package of the model, installable via Github, `pip` or `conda`.
 - A Jupyter notebook that demonstrates the use of the model.
-- A documentation of the model on [readthedocs.io](https://readthedocs.io).
+- A documentation of the model.
 - A test suite that ensures the model is working as expected.
 
 Given groups of 4 to 5 persons, it is possible and recommended to develop each of
-the above-listed deliverables in parallel. The use of Activity Browser is only permitted
-to visualize the results of the model, not to develop or run the model itself.
+the above-listed deliverables in parallel. The use of Activity Browser is permitted
+to see the databases and visualize the results of the model, or to support you in setting the project up.
 
 Here are a few suggested topics.
 You may come up with your own topic and form a group around it.
