@@ -138,10 +138,13 @@ they will send a car to pick you up at the train station.
 **Rest and dinner**
 
 ## 19:30 - 21:00
-**Hands-on exercises**
+**Hands-on exercises - Activity Browser**
 **Instructor**: Karin
 **Environment**:  premise
 - Generate and use a superstructure database
+- Use parameters
+- Use scenarios/superstructure for LCIA
+
 
 # DAY 3 (WEDNESDAY)
 
@@ -167,15 +170,15 @@ they will send a car to pick you up at the train station.
 ## 12:30 - 14:00
 **Lunch**
 
-## 14:00 - 15:00
+## 14:00 - 15:15
 **Dynamic inventory: `temporalis`** (part II)
 **Instructor**: Chris
 **Environment**:  bw25
 
-## 15:00 - 15:15
+## 15:15 - 15:30
 **Coffee break**
 
-## 15:15 - 18:00
+## 15:30 - 18:15
 **Collaboration via Git**
 **Instructor**: Chris
 - Introduction to Git
@@ -183,7 +186,7 @@ they will send a car to pick you up at the train station.
 - Testing
 - Documentation
 
-## 18:00 - 19:30
+## 18:15 - 19:30
 **Rest and dinner**
 
 ## 19:30 - 21:00
@@ -196,6 +199,9 @@ they will send a car to pick you up at the train station.
 ## 08:30 - 11:00
 **Mass and Flow Analysis:`ODYM`**
 **Instructor**: Alvaro
+
+## 11:00 - 11:15
+**Coffee break**
 
 ## 11:15 - 12:30
 **Group work**
