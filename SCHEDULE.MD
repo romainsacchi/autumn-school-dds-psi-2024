@@ -182,17 +182,24 @@ they will send a car to pick you up at the train station.
 **Collaboration via Git**
 **Instructor**: Chris
 - Introduction to Git
-- Package structure
 - Testing
 - Documentation
+
+(Packaging is skipped, see the [May 2024 material](https://github.com/Depart-de-Sentier/Schools-2024-May-Quebec/blob/main/class-materials/packaging.md) if you want to learn about making libraries.
 
 ## 18:15 - 19:30
 **Rest and dinner**
 
 ## 19:30 - 21:00
-**Hands-on exercises**
+**Hands-on exercise**
 **Instructor**: Chris
-- Package your code
+
+Task: 
+
+* Make a copy of the `tutorials/temporal/2 - Car example.ipynb` notebook ([link](https://github.com/romainsacchi/autumn-school-dds-psi-2024/blob/main/tutorials/temporal/2%20-%20Car%20example.ipynb)).
+* Turn the notebook cell that starts with `MILAGE = 200_000` into a function which takes the milage and lifetime as *input arguments*.
+* Write a docstring for that function. Bonus points for including a mermaid chart. See the [documentation notebook](https://github.com/romainsacchi/autumn-school-dds-psi-2024/blob/main/tutorials/packaging/1%20-%20Getting%20started.ipynb) for help.
+* Write a parameterized test function for the new function you just created which includes calculating the LCA score, and check that the total score is within certain bounds. Bonus points for including more complex tests which look at when the impact occurs.
 
 # DAY 4 (THURSDAY)
 
